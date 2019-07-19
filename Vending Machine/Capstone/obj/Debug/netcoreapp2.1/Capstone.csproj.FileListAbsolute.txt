@@ -1,0 +1,11 @@
+C:\Users\lunakaur\Workspaces\week-4-pair-exercises-c-team-2\19_Capstone\dotnet\Capstone\bin\Debug\netcoreapp2.1\Capstone.deps.json
+C:\Users\lunakaur\Workspaces\week-4-pair-exercises-c-team-2\19_Capstone\dotnet\Capstone\bin\Debug\netcoreapp2.1\Capstone.runtimeconfig.json
+C:\Users\lunakaur\Workspaces\week-4-pair-exercises-c-team-2\19_Capstone\dotnet\Capstone\bin\Debug\netcoreapp2.1\Capstone.runtimeconfig.dev.json
+C:\Users\lunakaur\Workspaces\week-4-pair-exercises-c-team-2\19_Capstone\dotnet\Capstone\bin\Debug\netcoreapp2.1\Capstone.dll
+C:\Users\lunakaur\Workspaces\week-4-pair-exercises-c-team-2\19_Capstone\dotnet\Capstone\bin\Debug\netcoreapp2.1\Capstone.pdb
+C:\Users\lunakaur\Workspaces\week-4-pair-exercises-c-team-2\19_Capstone\dotnet\Capstone\obj\Debug\netcoreapp2.1\Capstone.csproj.CoreCompileInputs.cache
+C:\Users\lunakaur\Workspaces\week-4-pair-exercises-c-team-2\19_Capstone\dotnet\Capstone\obj\Debug\netcoreapp2.1\Capstone.AssemblyInfoInputs.cache
+C:\Users\lunakaur\Workspaces\week-4-pair-exercises-c-team-2\19_Capstone\dotnet\Capstone\obj\Debug\netcoreapp2.1\Capstone.AssemblyInfo.cs
+C:\Users\lunakaur\Workspaces\week-4-pair-exercises-c-team-2\19_Capstone\dotnet\Capstone\obj\Debug\netcoreapp2.1\Capstone.dll
+C:\Users\lunakaur\Workspaces\week-4-pair-exercises-c-team-2\19_Capstone\dotnet\Capstone\obj\Debug\netcoreapp2.1\Capstone.pdb
+C:\Users\lunakaur\Workspaces\week-4-pair-exercises-c-team-2\19_Capstone\dotnet\Capstone\obj\Debug\netcoreapp2.1\Capstone.csprojAssemblyReference.cache
